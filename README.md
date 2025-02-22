@@ -14,7 +14,7 @@
 
 ## 🚀 About Me
 
-I'm an **Software Developer Mostly I avoid getting into CSS 🥹**, continuously exploring and learning new tools, technologies, and best practices to build resilient, reliable Application. My journey in Software development is driven By ADHD, It's something that give me kick after resolving every bug and bulding tools to make life easier (Anyones)
+I'm an **Software Enigneer and ask me to work on anything except writing CSS 🥹**, continuously  I'm exploring and learning new tools, technologies, and best practices to build resilient, reliable Application. My journey in Software development is driven By ADHD (Google it if you haven't heard it), It's something that give me kick after resolving every bug and bulding tools to make life easier (Anyones)
 
 - **🔧 Building Applications**
 - **📈 Optimizing Application performance**
