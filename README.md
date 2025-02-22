@@ -47,7 +47,7 @@ Sadly I do dream about bugs and features, Sometime i do wake up by Bed bugs 🪳
 
 ## 🛠️ Tools & Technologies
 
-![Tools](https://skillicons.dev/icons?i=nodejs,js,ts,java,cpp,nodejs,express,nestjs,springboot,graphql,mongodb,docker,aws,azure,gcp,git,github,linux,ubuntu)
+![Tools](https://skillicons.dev/icons?i=nodejs,js,ts,java,cpp,nodejs,express,nestjs,graphql,mongodb,docker,aws,azure,gcp,git,github,linux,ubuntu&perline=6)
 
 ---
 
